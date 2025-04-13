@@ -1,0 +1,10 @@
+To start the database only: 
+docker-compose up -d
+
+To stop the database:
+docker-compose down -d
+
+To connect to the database and login:
+psql -h localhost -U postgres -d mydatabase
+
+
