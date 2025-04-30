@@ -52,4 +52,6 @@ export default tseslint.config({
   },
 })
 ```
+## New Section
+
 # react-basics
